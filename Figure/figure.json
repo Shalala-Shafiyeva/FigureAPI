@@ -1,0 +1,57 @@
+[
+  {
+    "$type": "Figure.Triangle, Figure",
+    "SideA": 4.0,
+    "SideB": 5.0,
+    "SideC": 3.0,
+    "Id": 1,
+    "Area": 6.0,
+    "Perimeter": 12.0,
+    "Points": [
+      {
+        "$type": "Figure.Point, Figure",
+        "CoordinateX": 0.0,
+        "CoordinateY": 0.0
+      },
+      {
+        "$type": "Figure.Point, Figure",
+        "CoordinateX": 0.0,
+        "CoordinateY": 4.0
+      },
+      {
+        "$type": "Figure.Point, Figure",
+        "CoordinateX": 3.0,
+        "CoordinateY": 0.0
+      }
+    ],
+    "Center": {
+      "$type": "Figure.Point, Figure",
+      "CoordinateX": 1.0,
+      "CoordinateY": 1.3333333333333333
+    }
+  },
+  {
+    "$type": "Figure.Circle, Figure",
+    "Radius": 3.0,
+    "Id": 2,
+    "Area": 28.274333882308138,
+    "Perimeter": 18.84955592153876,
+    "Points": [
+      {
+        "$type": "Figure.Point, Figure",
+        "CoordinateX": 0.0,
+        "CoordinateY": 0.0
+      },
+      {
+        "$type": "Figure.Point, Figure",
+        "CoordinateX": 0.0,
+        "CoordinateY": 3.0
+      }
+    ],
+    "Center": {
+      "$type": "Figure.Point, Figure",
+      "CoordinateX": 0.0,
+      "CoordinateY": 0.0
+    }
+  }
+]
